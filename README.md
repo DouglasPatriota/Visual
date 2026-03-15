@@ -6,7 +6,7 @@
 
 <p align="center">
   📚 Em constante aprendizado com foco em:<br>
-  <strong>HTML</strong> | <strong>CSS</strong> | <strong>Python</strong>
+  <strong>HTML</strong> | <strong>CSS</strong> | <strong>JAVA</strong>
 </p>
 
 ---
