@@ -13,9 +13,9 @@
 
 ### 🚀 Sobre mim
 
-- 👨‍💻 Estudante de programação com foco em desenvolvimento web  
-- 🌱 Buscando evoluir como **Desenvolvedor Front-End** ou **Full Stack**  
-- 🔎 Interessado por tecnologia, boas práticas e design intuitivo  
+- 👨‍💻 Estudante de programação com foco em desenvolvimento Java
+- 🌱 Buscando evoluir como **Desenvolvedor Back-End** ou **Full Stack**  
+- 🔎 Interessado por tecnologia, boas práticas e Banco de dados.
 - 🧠 Em aprendizado contínuo, todos os dias
 
 ---
